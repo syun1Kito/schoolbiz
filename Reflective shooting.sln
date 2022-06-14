@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reflective shooting", "Assembly-CSharp.csproj", "{BE8BEC06-F0EB-668F-C0BC-1B3901F5D304}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reflective shooting", "Assembly-CSharp-firstpass.csproj", "{4BE20319-8CCA-1C23-17DA-A80DC87BF58B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reflective shooting", "Assembly-CSharp-Editor-firstpass.csproj", "{84EB0263-4018-A203-6544-2D33239703AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE8BEC06-F0EB-668F-C0BC-1B3901F5D304}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE8BEC06-F0EB-668F-C0BC-1B3901F5D304}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE8BEC06-F0EB-668F-C0BC-1B3901F5D304}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE8BEC06-F0EB-668F-C0BC-1B3901F5D304}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BE20319-8CCA-1C23-17DA-A80DC87BF58B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BE20319-8CCA-1C23-17DA-A80DC87BF58B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BE20319-8CCA-1C23-17DA-A80DC87BF58B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BE20319-8CCA-1C23-17DA-A80DC87BF58B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84EB0263-4018-A203-6544-2D33239703AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84EB0263-4018-A203-6544-2D33239703AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84EB0263-4018-A203-6544-2D33239703AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84EB0263-4018-A203-6544-2D33239703AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
